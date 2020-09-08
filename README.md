@@ -1,2 +1,2 @@
-# angry-birds-2
-I improved my first game by adding imges. Play and Destroy!
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
